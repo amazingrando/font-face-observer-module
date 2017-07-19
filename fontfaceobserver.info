@@ -1,0 +1,3 @@
+name = Face Font Observer
+description = For async loading of fonts.
+core = 7.x

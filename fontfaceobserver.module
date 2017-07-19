@@ -1,0 +1,4 @@
+<?php
+function fontfaceobserver_init() {
+  drupal_add_js(drupal_get_path('module', 'fontfaceobserver') . '/js/fontfaceobserver.js');
+}
